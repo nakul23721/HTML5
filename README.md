@@ -1,4 +1,4 @@
-# HTML 5 :)
+# HTML 5
 # Learning HTML 5   
  
 
